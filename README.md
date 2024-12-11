@@ -78,7 +78,7 @@
         <table align="center">
             <tr>
                 <td colspan="2">
-                    <img src="0933768febde518008cf.jpg" alt="Thanh Hieu">
+                    <img src="z6076265116534_b393d2fee70b1fc0a44cd427a9c8b880.jpg" alt="Thanh Hieu">
                 </td>
             </tr>
             <tr>
